@@ -1,0 +1,24 @@
+h1{ display: flex;
+    justify-content: center;
+}
+
+#FotoPerfil{
+    position: absolute; 
+    display:inline;
+    padding-left: 20%;
+    height: 250px;
+    width: 150px;
+}
+
+.infoP{
+      
+    padding-left:50%;   
+    }
+
+    h4{
+     text-decoration-line: underline;
+     
+    }
+
+
+    
